@@ -1,3 +1,3 @@
 # tucode
 
-access me here: https://tucode.sdev
+access me here: https://tucode.dev
